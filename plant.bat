@@ -1,0 +1,2 @@
+cd plant_disease_app
+python plant_app.py
